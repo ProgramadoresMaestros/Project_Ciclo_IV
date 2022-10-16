@@ -7,4 +7,4 @@ En este repositorio empezaremos la creación de todo este ciclo final... animo g
 
 Juan Sebastian Galeano Saenz.  
 P.D. Jose Mejia
-
+mi primer commit
